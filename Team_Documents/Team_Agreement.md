@@ -23,8 +23,7 @@ Describe at least:
 
 *Carlos Rojas*
 
-*
-
+*Teamwork: Working well with others, valuing diverse perspectives, and contributing positively to group dynamics.
 *David Siebert*
 
 *
@@ -43,7 +42,7 @@ Describe at least:
 
 *Carlos Rojas*
 
-*
+*I can assist with writing documentation 
 
 *David Siebert*
 
@@ -63,8 +62,8 @@ Describe at least:
 
 *Carlos Rojas*
 
-*
-
+* problem solving
+  
 *David Siebert*
 
 *
@@ -83,8 +82,8 @@ Describe at least:
 
 *Carlos Rojas*
 
-*
-
+* Frequent communication, assigning tasks that work to strengths, collaborating on weaker tasks, being signed in on Remo as much as possible and available to answer Slack messages when not able to be on Remo.
+  
 *David Siebert*
 
 *
